@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "admin",
+    "DB_PASSWORD": "Shivam99",
+    "DB_NAME": "places",
+    "JWT_KEY": "secret_key",
+    "server": "mongodb+srv://adminp:Production99@cluster0-awn7x.mongodb.net/production?retryWrites=true&w=majority"
+  }
+}

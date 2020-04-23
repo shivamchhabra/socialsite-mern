@@ -1,0 +1,26 @@
+.place-form {
+  list-style: none;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  background: white;
+}
+
+.form-input {
+  width: 100%;
+  height: 3rem;
+}
+.form-textarea {
+  width: 100%;
+  height: 6rem;
+}
+.form-label {
+  text-align: center;
+  text-decoration: wavy;
+  font-size: 28px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+}
